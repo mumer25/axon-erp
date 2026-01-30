@@ -242,6 +242,10 @@ useEffect(() => {
 }
 
 
+// "eas": {
+      //   "projectId": "23532053-a62c-40e2-becf-7234a0ededf5"
+      // }
+
 // import React, { useEffect, useState } from "react";
 // import { ActivityIndicator, View } from "react-native";
 // import { NavigationContainer } from "@react-navigation/native";
